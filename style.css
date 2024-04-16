@@ -1,0 +1,19 @@
+html {
+  background: url("img/Digital\ Grid.png") no-repeat fixed center;
+  background-size: cover;
+}
+body {
+  background-color: rgba(70, 66, 66, 0.8);
+  color: cyan;
+  width: 600px;
+  padding: 25px 100px;
+  margin: 25px auto;
+  text-align: center;
+  border-radius: 25px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border: 2px solid cyan;
+}
+
+input {
+  color: black;
+}
